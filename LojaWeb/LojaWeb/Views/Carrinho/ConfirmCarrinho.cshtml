@@ -1,0 +1,78 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title>ConfirmarCarrinho</title>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+    </style>
+</head>
+
+<body>
+    <center>
+        <ul class="nav nav-tabs" id="navId">
+            <li class="nav-item">
+                <a href="/Home/Index" class="nav-link">Home</a>
+            </li>
+            <li class="nav-item">
+                <a href="/Usuario/Form" class="nav-link">Usuário</a>
+            </li>
+            <li class="nav-item">
+                <a href="/Produto/FormProd" class="nav-link">Produto</a>
+            </li>
+            <li class="nav-item">
+                <a href="/CategoriaProduto/FormCatProd" class="nav-link">Categoria de Produto</a>
+            </li>
+            <li class="nav-item">
+                <a href="/Carrinho/Escolher" class="nav-link">Carrinho</a>
+            </li>
+        </ul>
+    </center>
+    <table>
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Quantidade</th>
+                <th>Preço Total</th>
+                <th>Excluir</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var it in ViewBag.ItensCarrinhos)
+            {
+                foreach (var p in ViewBag.ProdutosCarrinho)
+                {
+                    if (it.IdProduto == p.Id)
+                    {
+                        <tr>
+                            <td>@p.Nome</td>
+                            <td><form action="/Carrinho/MudarQtd"><input type="text" value="@it.Quantidade" name="Qtd"/><input type="hidden" value="@it.IdProduto" name="IdProd" /><input type="hidden"value="@it.IdCarrinho" name="IdCar" /><input type="submit" value="Mudar"/></form></td>
+                            <td>R$@((p.Preco * it.Quantidade).ToString("#,##0.00"))</td>
+                            <td><form action="/Carrinho/RemoverItem"><input type="submit" value="Deletar Item" /><input type="hidden" value="@it.IdProduto" name="IdProd" /><input type="hidden"value="@it.IdCarrinho" name="IdCar" /></form></td>
+                        </tr>
+                    }
+                }
+            }
+        </tbody>
+    </table>
+    <center><h2>R$ @ViewBag.Total</h2>
+    <form action="/Carrinho/Finalizar"><input type="submit" value="Finalizar" /><input type="hidden" value="@ViewBag.CarrinhoId" name="Id"/><input type="hidden" value="@ViewBag.Total" name="preco" /></form></center>
+</body>
+</html>

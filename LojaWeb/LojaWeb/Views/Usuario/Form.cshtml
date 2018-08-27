@@ -1,0 +1,52 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Form</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    </head>
+
+    <body>
+        <ul class="nav nav-tabs" id="navId">
+          <li class="nav-item">
+              <a href="/Home/Index" class="nav-link">Home</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link active">Usuário</a>
+          </li>
+          <li class="nav-item">
+            <a href="/Produto/FormProd" class="nav-link">Produto</a>
+        </li>
+        <li class="nav-item">
+            <a href="/CategoriaProduto/FormCatProd" class="nav-link">Categoria de Produto</a>
+        </li>
+        <li class="nav-item">
+            <a href="/Carrinho/Escolher" class="nav-link">Carrinho</a>
+        </li>
+      </ul>
+
+        <div>
+            <br /><br />
+            <center>
+                <form action="/Usuario/Adicionar">
+                    <label for="Nome">Nome: </label>
+                    <input id="nome" name="usuario.Nome" />
+                    <label for="Senha">Senha: </label>
+                    <input type="password" size="8" maxlength="8" name="usuario.Senha" />
+                    <br />
+                    <input id="submit" type="submit" value="Cadastrar" />
+                </form>
+                <br /><br /><br /><br />
+                <form action="/Usuario/Busca">
+                    <h2>Buscar Todos os Usuário</h2>
+                    <input type="submit" value="Buscar"/>
+                </form>
+            </center>
+        </div>
+    </body>
+</html>

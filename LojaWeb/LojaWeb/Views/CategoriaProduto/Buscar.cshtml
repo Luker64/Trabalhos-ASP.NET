@@ -1,0 +1,53 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Buscar</title>
+
+    <style>
+        table {
+            font-family: Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 50%;
+        }
+    </style>
+
+</head>
+<body>
+    <div>
+        <form>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Nome</th>
+                        <th>Descrição</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var cprod in ViewBag.categorias)
+                    {
+                        <tr style="text-align:center">
+                            <td>@cprod.Id</td>
+                            <td>@cprod.Nome</td>
+                            <td>@cprod.Descricao</td>
+                            <td>@Html.ActionLink(" Editar ", "Editar", new { id = cprod.Id })</td>
+                            <td>@Html.ActionLink(" Remover ", "Remover", new { id = cprod.Id })</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </form>
+    </div>
+    <form action="/CategoriaProduto/FormCatProd">
+        <input type="submit" value="Voltar" />
+    </form>
+</body>
+</html>

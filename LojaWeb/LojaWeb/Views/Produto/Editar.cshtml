@@ -1,0 +1,38 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Editar</title>
+</head>
+<body>
+    <div>
+        @foreach(var produto in ViewBag.prods)
+        {
+            <form action="/Produto/Atualizar">
+                <label for="Id">Id: </label>
+                <input type="text" name="produto.Id" readonly value="@produto.Id" />
+                <label for="Nome">Nome: </label>
+                <input type="text" name="produto.Nome" value="@produto.Nome"/>
+                <label for="Descricao">Descrição: </label>
+                <input type="text" id="descricao" name="produto.Descricao" value="@produto.Descricao"/>
+                <br />
+                <label for="Preco">Preço: </label>
+                <input type="number" id="preco" name="produto.Preco" value="@produto.Preco"/>
+                <br />
+                <label for="Quantidade">Quantidade: </label>
+                <input type="text" id="quantidade" name="produto.Quantidade" value="@produto.Quantidade"/>
+                <label for="CategoriaId">Id da Categoria: </label>
+                <input type="number" id="categoriaid" name="produto.CategoriaID" value="@produto.CategoriaID"/>
+                <br />
+                <input id="submit" type="submit" value="Atualizar" />
+            </form>
+        }            
+    </div>
+</body>
+</html>

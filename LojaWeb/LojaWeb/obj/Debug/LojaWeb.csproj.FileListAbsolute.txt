@@ -1,0 +1,343 @@
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\LojaWeb.dll.config
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\LojaWeb.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\LojaWeb.pdb
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Web.Infrastructure.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Web.Helpers.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Web.Mvc.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Web.Razor.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Web.Webpages.Deployment.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Web.Webpages.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Web.Webpages.Razor.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Web.Razor.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Web.Webpages.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Web.Webpages.Deployment.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Web.Webpages.Razor.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Web.Helpers.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Web.Mvc.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\pt-br\System.Web.Razor.resources.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\pt-br\System.Web.Webpages.resources.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\pt-br\System.Web.Helpers.resources.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\pt-br\System.Web.Mvc.resources.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\obj\Debug\LojaWeb.csprojResolveAssemblyReference.cache
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\obj\Debug\LojaWeb.csproj.CoreCompileInputs.cache
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\obj\Debug\LojaWeb.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\obj\Debug\LojaWeb.pdb
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\EntityFramework.Commands.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\EntityFramework.Core.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\EntityFramework.MicrosoftSqlServer.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\EntityFramework.Relational.Design.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\EntityFramework.Relational.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Abstractions.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Memory.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Binder.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.Abstractions.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.OptionsModel.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Primitives.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Remotion.Linq.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Collections.Immutable.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Diagnostics.DiagnosticSource.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Interactive.Async.dll
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\EntityFramework.Commands.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\EntityFramework.Core.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\EntityFramework.MicrosoftSqlServer.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\EntityFramework.Relational.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\EntityFramework.Relational.Design.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Abstractions.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Memory.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Binder.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.Abstractions.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.OptionsModel.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Primitives.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\Remotion.Linq.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Collections.Immutable.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Diagnostics.DiagnosticSource.xml
+T:\Usuarios\INFORMATICA\3AETIM\TURMA B\Leo e Thomaz\ASP NET\LojaWeb\LojaWeb\bin\System.Interactive.Async.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\LojaWeb.dll.config
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\LojaWeb.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\LojaWeb.pdb
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.Commands.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.Core.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.MicrosoftSqlServer.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.Relational.Design.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.Relational.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.OptionsModel.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Remotion.Linq.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Collections.Immutable.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Interactive.Async.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Helpers.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Mvc.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Razor.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Webpages.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.Commands.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.Core.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.MicrosoftSqlServer.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.Relational.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.Relational.Design.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.OptionsModel.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Remotion.Linq.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Collections.Immutable.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Interactive.Async.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Razor.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Webpages.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Helpers.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Mvc.xml
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\obj\Debug\LojaWeb.csprojResolveAssemblyReference.cache
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\obj\Debug\LojaWeb.csproj.CoreCompileInputs.cache
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\obj\Debug\LojaWeb.dll
+C:\Users\3aetim\Documents\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\obj\Debug\LojaWeb.pdb
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\LojaWeb.dll.config
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\LojaWeb.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\LojaWeb.pdb
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.Commands.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.Core.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.MicrosoftSqlServer.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.Relational.Design.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.Relational.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Abstractions.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Memory.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Binder.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.OptionsModel.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Primitives.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Web.Infrastructure.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Remotion.Linq.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Collections.Immutable.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Diagnostics.DiagnosticSource.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Interactive.Async.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Helpers.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Mvc.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Razor.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Webpages.Deployment.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Webpages.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Webpages.Razor.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.Commands.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.Core.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.MicrosoftSqlServer.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.Relational.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\EntityFramework.Relational.Design.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Abstractions.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Memory.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Binder.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.Abstractions.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.OptionsModel.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Primitives.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\Remotion.Linq.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Collections.Immutable.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Diagnostics.DiagnosticSource.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Interactive.Async.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Razor.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Webpages.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Webpages.Deployment.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Webpages.Razor.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Helpers.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\System.Web.Mvc.xml
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\pt-br\System.Web.Razor.resources.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\pt-br\System.Web.Webpages.resources.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\pt-br\System.Web.Helpers.resources.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\bin\pt-br\System.Web.Mvc.resources.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\obj\Debug\LojaWeb.csprojResolveAssemblyReference.cache
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\obj\Debug\LojaWeb.csproj.CoreCompileInputs.cache
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\obj\Debug\LojaWeb.csproj.CopyComplete
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\obj\Debug\LojaWeb.dll
+F:\GitHub\technical\Entity Framework\LojaWeb\LojaWeb\obj\Debug\LojaWeb.pdb
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\LojaWeb.dll.config
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\LojaWeb.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\LojaWeb.pdb
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\EntityFramework.Commands.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\EntityFramework.Core.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\EntityFramework.MicrosoftSqlServer.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\EntityFramework.Relational.Design.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\EntityFramework.Relational.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Abstractions.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Memory.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Binder.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.OptionsModel.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Primitives.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Web.Infrastructure.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Remotion.Linq.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Collections.Immutable.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Diagnostics.DiagnosticSource.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Interactive.Async.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Web.Helpers.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Web.Mvc.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Web.Razor.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Web.Webpages.Deployment.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Web.Webpages.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Web.Webpages.Razor.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\EntityFramework.Commands.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\EntityFramework.Core.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\EntityFramework.MicrosoftSqlServer.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\EntityFramework.Relational.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\EntityFramework.Relational.Design.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Abstractions.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Memory.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Binder.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.Abstractions.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.OptionsModel.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Primitives.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\Remotion.Linq.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Collections.Immutable.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Diagnostics.DiagnosticSource.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Interactive.Async.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Web.Razor.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Web.Webpages.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Web.Webpages.Deployment.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Web.Webpages.Razor.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Web.Helpers.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\System.Web.Mvc.xml
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\pt-br\System.Web.Razor.resources.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\pt-br\System.Web.Webpages.resources.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\pt-br\System.Web.Helpers.resources.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\bin\pt-br\System.Web.Mvc.resources.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\obj\Debug\LojaWeb.csprojResolveAssemblyReference.cache
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\obj\Debug\LojaWeb.csproj.CoreCompileInputs.cache
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\obj\Debug\LojaWeb.csproj.CopyComplete
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\obj\Debug\LojaWeb.dll
+F:\GitHub\Trabalhos-ASP.NET\LojaWeb\LojaWeb\obj\Debug\LojaWeb.pdb
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\LojaWeb.dll.config
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\LojaWeb.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\LojaWeb.pdb
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\EntityFramework.Commands.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\EntityFramework.Core.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\EntityFramework.MicrosoftSqlServer.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\EntityFramework.Relational.Design.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\EntityFramework.Relational.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Abstractions.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Memory.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Binder.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.OptionsModel.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Primitives.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Web.Infrastructure.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Remotion.Linq.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Collections.Immutable.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Diagnostics.DiagnosticSource.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Interactive.Async.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Web.Helpers.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Web.Mvc.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Web.Razor.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Web.Webpages.Deployment.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Web.Webpages.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Web.Webpages.Razor.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\EntityFramework.Commands.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\EntityFramework.Core.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\EntityFramework.MicrosoftSqlServer.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\EntityFramework.Relational.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\EntityFramework.Relational.Design.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Abstractions.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Caching.Memory.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Configuration.Binder.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Logging.Abstractions.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.OptionsModel.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Microsoft.Extensions.Primitives.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\Remotion.Linq.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Collections.Immutable.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Diagnostics.DiagnosticSource.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Interactive.Async.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Web.Razor.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Web.Webpages.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Web.Webpages.Deployment.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Web.Webpages.Razor.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Web.Helpers.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\System.Web.Mvc.xml
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\pt-br\System.Web.Razor.resources.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\pt-br\System.Web.Webpages.resources.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\pt-br\System.Web.Helpers.resources.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\bin\pt-br\System.Web.Mvc.resources.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\obj\Debug\LojaWeb.csprojResolveAssemblyReference.cache
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\obj\Debug\LojaWeb.csproj.CoreCompileInputs.cache
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\obj\Debug\LojaWeb.csproj.CopyComplete
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\obj\Debug\LojaWeb.dll
+F:\GitHub\Trabalhos-ASP.NET\A\LojaWeb\LojaWeb\LojaWeb\obj\Debug\LojaWeb.pdb

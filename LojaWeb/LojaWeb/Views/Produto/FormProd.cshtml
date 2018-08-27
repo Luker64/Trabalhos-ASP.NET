@@ -1,0 +1,59 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>FormProd</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    </head>
+    <body>
+        <ul class="nav nav-tabs" id="navId">
+            <li class="nav-item">
+                <a href="/Home/Index" class="nav-link">Home</a>
+            </li>
+            <li class="nav-item">
+                <a href="/Usuario/Form" class="nav-link">Usuário</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active">Produto</a>
+            </li>
+            <li class="nav-item">
+                <a href="/CategoriaProduto/FormCatProd" class="nav-link">Categoria de Produto</a>
+            </li>
+            <li class="nav-item">
+                <a href="/Carrinho/Escolher" class="nav-link">Carrinho</a>
+            </li>
+        </ul>
+        <br /><br />
+        <center>
+            <div>
+                <form action="/Produto/Adicionar">
+                    <label for="Nome">Nome: </label>
+                    <input type="text" name="produto.Nome" />
+                    <label for="Descricao">Descrição: </label>
+                    <input type="text" id="descricao" name="produto.Descricao" />
+                    <br />
+                    <label for="Preco">Preço: </label>
+                    <input type="number" id="preco" name="produto.Preco" />
+                    <br />
+                    <label for="Quantidade">Quantidade: </label>
+                    <input type="text" id="quantidade" name="produto.Quantidade" />
+                    <label for="CategoriaId">Id da Categoria: </label>
+                    <input type="number" id="categoriaid" name="produto.CategoriaID" />
+                    <br />
+                    <input id="submit" type="submit" value="Cadastrar" />
+                </form>
+                <br /><br /><br /><br />
+                <form action="/Produto/Buscar">
+                    <h2>Buscar Todos os Produtos</h2>
+                    <input type="submit" value="Buscar" />
+                </form>
+            </div>
+        </center>
+    </body>
+</html>

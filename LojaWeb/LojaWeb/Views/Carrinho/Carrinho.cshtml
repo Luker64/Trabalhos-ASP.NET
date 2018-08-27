@@ -1,0 +1,76 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Carrinho</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+    </style>
+</head>
+
+<body>
+    <ul class="nav nav-tabs" id="navId">
+        <li class="nav-item">
+            <a href="/Home/Index" class="nav-link">Home</a>
+        </li>
+        <li class="nav-item">
+            <a href="/Usuario/Form" class="nav-link">Usuário</a>
+        </li>
+        <li class="nav-item">
+            <a href="/Produto/FormProd" class="nav-link">Produto</a>
+        </li>
+        <li class="nav-item">
+            <a href="/CategoriaProduto/FormCatProd" class="nav-link">Categoria de Produto</a>
+        </li>
+        <li class="nav-item">
+            <a href="/Carrinho/Escolher" class="nav-link active">Carrinho</a>
+        </li>
+    </ul>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Nome</th>
+                        <th>Descrição</th>
+                        <th>Preço</th>
+                        <th>Quantidade</th>
+                        <th>Id da Categoria</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var prod in ViewBag.produts)
+            {
+                <tr style="text-align:center !important">
+                    <td>@prod.Id</td>
+                    <td>@prod.Nome</td>
+                    <td>@prod.Descricao</td>
+                    <td>@prod.Preco</td>
+                    <td>@prod.Quantidade</td>
+                    <td>@prod.CategoriaID</td>
+                    <td>@Html.ActionLink(" Adicionar ao Carrinho", "Adicionar", new { id = prod.Id })</td>
+                </tr>
+    }
+                </tbody>
+            </table>
+            <center>
+                <h2>@Html.ActionLink("Confirmar!", "Confirm")</h2>
+            </center>
+</body>
+</html>

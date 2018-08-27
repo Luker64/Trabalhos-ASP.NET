@@ -1,0 +1,31 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Editar</title>
+    </head>
+    <body>
+        <div>
+            @foreach (var usuario in ViewBag.users)
+            {
+                <form action="/Usuario/Atualizar">
+                    <label for="Id">Id: </label>
+                    <input type="text" id="id" name="usuario.Id" value="@usuario.Id" readonly/>
+                    <label for="Nome">Nome: </label>
+                    <input type="text" id="nome" name="usuario.Nome" value="@usuario.Nome" />
+                    <label for="Senha">Senha: </label>
+                    <input type="text" size="8" maxlength="8" name="usuario.Senha" value="@usuario.Senha" />
+                    <br />
+                    
+                    <input id="submit" type="submit" value="Atualizar" />
+                </form>
+            }
+        </div>
+    </body>
+</html>
